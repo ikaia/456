@@ -127,9 +127,10 @@ https://visualstudio.microsoft.com/downloads/
 
 During the install, it will ask you what workloads you want to install, I chose in *Visual Studio Installer*:
 
-**ASP.NET and Web Development**
-**.NET desktop development (Node.js)** (we will do some of this)
-**Data Storage and processing**
+- **ASP.NET and Web Development**
+- **.NET desktop development (Node.js)** (we will do some of this)
+- **Data Storage and processing**
+  
 We are off and running using Visual Studio in the next assignment. Make sure that you have it installed or have access to a computer with it installed (with all the necessary workloads).
 Visual Studio for Mac is not the same as Visual Studio for Windows. You will be frustrated and disappointed trying to run VS for Mac and complete assignments. Either talk with somebody about how to get dual boot setup so you can install Windows and Visual Studio for Windows or find a Windows computer that you can use Visual Studio on. If you went off it, you can go to Visual Studio Installer > Modify > .NET FRAMEWORKS. 
 I suggest you use 2022. That's what I will be using. That is what is installed in the lab. Lastly, check the **checkboxes**: 
