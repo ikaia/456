@@ -135,9 +135,9 @@ Visual Studio for Mac is not the same as Visual Studio for Windows. You will be 
 I suggest you use 2022. That's what I will be using. That is what is installed in the lab. Lastly, check the **checkboxes**: 
 Also,
 >NET.FRAMEWORKS
-  > [] **NET.Frameworks 0.1**
-  > [] **NET.Frameworks 0.3**
-  > [] **NET.Frameworks 0.4**
+- **NET.Frameworks 0.1**
+- **NET.Frameworks 0.3**
+- **NET.Frameworks 0.4**
 Then once you in, go to search box enter: **ASP.NET Web Application C# (.NET FRAMEWORK)**
 >Finally, you go to file > new > project > asp net form (globe) > Assign01 > Add Item (Right-Click) > Web Form > Assign01.aspx (Yay!)
 
